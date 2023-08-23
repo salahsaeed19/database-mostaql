@@ -4,9 +4,9 @@ This repository contains SQL scripts for creating and populating the Mostaql dat
 
 ## Project Owners
 
-- Salah El-Din Abu Seif
-- Abdel-Razzaq El-Dahdouh
-- Fathi Shamlakh
+- [Salah El-Din Abu Seif](https://github.com/salahsaeed19)
+- [Abdel-Razzaq El-Dahdouh](https://github.com/abood-2020)
+- [Fathi Shamlakh](https://github.com/Fathi-Shamallakh)
 
 ## Table of Contents
 
@@ -81,5 +81,5 @@ The SQL script includes commands for backup and restore of the Mostaql database.
 
 ## License
 
-This script is provided under the [MIT License](LICENSE).
+This script is provided under the [MIT License](https://github.com/salahsaeed19).
 
